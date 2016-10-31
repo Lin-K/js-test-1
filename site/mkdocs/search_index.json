@@ -1,0 +1,19 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Try to place a file in documentation\n\n\nAlmost matching metal", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#try-to-place-a-file-in-documentation", 
+            "text": "", 
+            "title": "Try to place a file in documentation"
+        }, 
+        {
+            "location": "/#almost-matching-metal", 
+            "text": "", 
+            "title": "Almost matching metal"
+        }
+    ]
+}
