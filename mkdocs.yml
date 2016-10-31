@@ -1,0 +1,5 @@
+site_name: Testing Website
+docs_dir: documentation
+pages:
+  - index.md
+theme: readthedocs
